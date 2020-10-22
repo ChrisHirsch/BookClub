@@ -28,7 +28,7 @@ Do the patients really “need” our software?
 
 Why or why not?
 
-## <a name="forward"> Forward</a>
+## Forward
 
 “effective IT delivery organizations take about an hour to get code from “committed to mainline” to “running in production,” a journey lesser organizations take months to do.” - Forsgren PhD, Nicole. Accelerate (p. 13). IT Revolution Press. Kindle Edition.
 
