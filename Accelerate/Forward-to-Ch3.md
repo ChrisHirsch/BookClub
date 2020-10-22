@@ -4,10 +4,10 @@
 ## Contents
 
 * [Forward](#Forward)
-* Preface
-* Part One
-* Measuring Software Delivery Performance
-* How do we change culture?
+* [Preface](#Preface)
+* [Part One](#Part)
+* [Measuring Software Delivery Performance](#Measuring)
+* [How do we change culture?](#How)
 
 Where do you see us as a software organization?
 
@@ -43,7 +43,6 @@ What if we could “fix an issue or failure” that’s deployed to production w
 The book suggests that change will need support from the “top”, but it shouldn’t be mandated from the top. It should come from within. Do you agree with this?
 
 What’s it mean to not “boil the ocean”? Does it feel like we are trying to “boil the ocean” with all the changes lately? If so, what teams should start these changes? Do we need to limit the immediate scope?
-
 
 ## Preface
 
