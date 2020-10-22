@@ -5,9 +5,9 @@
 
 * [Forward](#Forward)
 * [Preface](#Preface)
-* [Part One](#Part)
-* [Measuring Software Delivery Performance](#Measuring)
-* [How do we change culture?](#How)
+* [Part One](#Part-One)
+* [Measuring Software Delivery Performance](#Measuring-Software-Delivery-Performance)
+* [How do we change culture?](#How-do-we-change-culture)
 
 Where do you see us as a software organization?
 
@@ -108,7 +108,6 @@ high performers have: 46 times more frequent code deployments 440 times faster l
 Forsgren PhD, Nicole. Accelerate (p. 43). IT Revolution Press. Kindle Edition.
 
 Thoughts?
-
 
 
 ## Measuring Software Delivery Performance
