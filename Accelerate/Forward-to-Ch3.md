@@ -1,14 +1,13 @@
 
 # Accelerate - Book Club Meeting 1
 
-Skip to end of metadata
-Created by Karyn Cassio, last modified on Oct 15, 2020Go to start of metadata
+## Contents
 
-Forward
-Preface
-Part One
-Measuring Software Delivery Performance
-How do we change culture?
+* [Forward](#Forward)
+* Preface
+* Part One
+* Measuring Software Delivery Performance
+* How do we change culture?
 
 Where do you see us as a software organization?
 
@@ -18,14 +17,18 @@ Where do you see us as a software organization?
 * Elite Performers
 
 What key factors, from the reading, would put us in that rating?
+
 What do we need to change to move towards being an elite performing software organization?
-Do you think this is achievable here at DaVita?
+
+Do you think this is achievable here?
+
 How would becoming an Elite Performing Software organization help our customers?
+
 Do the patients really “need” our software?
 
 Why or why not?
 
-## Forward
+## <a name="forward"> Forward</a>
 
 “effective IT delivery organizations take about an hour to get code from “committed to mainline” to “running in production,” a journey lesser organizations take months to do.” - Forsgren PhD, Nicole. Accelerate (p. 13). IT Revolution Press. Kindle Edition.
 
